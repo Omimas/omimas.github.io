@@ -2,7 +2,7 @@
 omimas
 
 C++, JS  
-EMAIL: erendogukan35@gmai.com  
+EMAIL: erendogukan35@gmail.com  
 https://www.linkedin.com/in/erenbudak/
 
 ## Eren D. Budak s GitHub Stats  
